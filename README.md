@@ -1,5 +1,3 @@
-# Amazon-SageMarker-Cloud
-
 # Đề tài: Xây dựng ứng dụng dựa trên việc sử dụng Amazon-SageMarker 
 
 # Thành viên nhóm

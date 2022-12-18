@@ -16,3 +16,8 @@
     -   Deploy Endpoint
 -   AWS EC2:
     -   Deploy streamlit webapp
+## 3. Classify image
+![](./assets/classify-image.png)
+
+## 4. Demo app 
+![](./assets/demo-app.png)

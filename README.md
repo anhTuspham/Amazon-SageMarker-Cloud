@@ -8,10 +8,8 @@
 ![](./assets/diagrams.png)
 ## 2. Dịch vụ sử dụng
 -   AWS S3:
-    -   Store training data
-    -   Store pre-trained model
+    -   Store training data, model
 -   AWS SageMaker:
-    -   Data Wrangling
     -   Training
     -   Deploy Endpoint
 -   AWS EC2:
